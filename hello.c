@@ -2,7 +2,7 @@
 #include <stdio.h>
  
 int main() {
-    printf("Hello, world!\n");
+    printf("Hello, world from branch-2!\n");
     return 0;
 }
 
