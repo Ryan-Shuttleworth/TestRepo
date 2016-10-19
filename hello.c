@@ -2,7 +2,8 @@
 #include <stdio.h>
  
 int main() {
-    printf("Hello, world!\n");
+    printf("Hello, world, from master!\n");
+    printf("Adding a tag...\n");
     return 0;
 }
 
